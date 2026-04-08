@@ -1,0 +1,1 @@
+worker: python taskflux_monitor.py
